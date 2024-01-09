@@ -334,6 +334,9 @@ section {
 	grid-template-columns: repeat(5, 140px);
 	justify-content: space-between;
 	gap: 16px;
+	animation: slideToTop 1s ease forwards;
+	animation-delay: 3s;
+	opacity: 0;
 }
 
 #skills h1 {
@@ -497,6 +500,7 @@ section {
 	}
 
 	#home {
+		height: 700px;
 		flex-direction: column-reverse;
 		justify-content: flex-end;
 		gap: 32px;
@@ -569,6 +573,10 @@ section {
 	nav a {
 		margin-left: 12px;
 		font-size: 14px;
+	}
+
+	#home {
+		height: 600px;
 	}
 
 	#contacts h1,
