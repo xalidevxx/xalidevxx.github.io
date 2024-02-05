@@ -633,7 +633,7 @@ section > h1 {
 	}
 }
 
-@media only screen and (max-width: 910px) {
+@media only screen and (max-width: 986px) {
 	.links {
 		flex-direction: column;
 	}
@@ -642,7 +642,9 @@ section > h1 {
 		width: 100%;
 		justify-content: center;
 	}
+}
 
+@media only screen and (max-width: 910px) {
 	#skills {
 		grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
 		row-gap: 48px;
