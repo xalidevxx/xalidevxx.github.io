@@ -9,16 +9,16 @@ Hi👋 I'm Ali
 <h5>
   <ul>
     <li>📫 My portfolio: <a href="https://xalidevxx.github.io" target="_blank">xalidevxx.github.io</a></li>
-    <li>🔭 I’m currently working on <a href="https://freelanceplus.io" target="_blank">freelanceplus.io</a></li>
-    <li>💬 Ask me about Vue, React, Angular, Nestjs, Docker</li>
-    <li>🌱 I’m currently learning Flutter</li>
-    <li>⚡ Fun fact: I once accidentally created the shortest source code for 'Hello World' ever. My code fits on one line, but still maintains readability!</li>
+    <li>🔭 I’m currently working on <a href="https://takta.kz" target="_blank">Takta.kz</a></li>
+    <li>💬 Ask me about Flutter, Vue, React, Angular, Nestjs, Nodejs</li>
   </ul>
 </h5>
 
 <h3>Skills and Tools👨‍💻</h3>
 <ul>
+  <li>Dart</li>
   <li>TypeScript</li>
+  <li>Flutter</li>
   <li>Vue</li>
   <li>React</li>
   <li>Angular</li>
@@ -27,6 +27,7 @@ Hi👋 I'm Ali
   <li>Nx</li>
   <li>Docker</li>
   <li>Nginx</li>
+  <li>Mongodb</li>
 </ul>
 
 <!--
