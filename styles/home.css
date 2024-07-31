@@ -8,6 +8,7 @@
 	gap: 40px;
 	background-color: #fcf3cf;
 	border-radius: 40px;
+	box-shadow: var(--shadow);
 }
 
 #home img {
